@@ -1,6 +1,6 @@
 # Build a Recipe Finder for Your Mom | React & TailwindCSS
 
-![Demo App](https://i.ibb.co/7zp7M7q/Screenshot-29.png)
+![Demo App](/public/Screenshot_29.png)
 
 [Video Tutorial on Youtube](https://youtu.be/Z_AWfuJXXCI)
 
